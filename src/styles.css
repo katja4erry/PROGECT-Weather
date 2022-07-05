@@ -83,3 +83,9 @@ ul {
   display: block;
   margin-left: 10px;
 }
+
+.link-source {
+  padding: 5px;
+  margin: 20px auto;
+  max-width: 600px;
+}
